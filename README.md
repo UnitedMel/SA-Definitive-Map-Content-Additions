@@ -6,7 +6,7 @@
 - **Grand Theft Auto: San Andreas v1.0**
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/Win32-latest/vorbisFile-Win32.zip)
 - [CLEO](https://github.com/cleolibrary/CLEO4/releases)
-- [Modloader](https://github.com/thelink2012/modloader/releases)
+- [Mod Loader](https://github.com/thelink2012/modloader/releases)
 - [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 - [SkyGfx](https://github.com/aap/skygfx/releases)
 - [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
@@ -15,14 +15,14 @@
 ### Download: [Definitive Map Content Additions](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/download/latest/SA.DefinitiveMapContentAdditions.7z)
 > Occupied IDs: 6526-6862 (337); 12004-12092 (88)
 ### Download: [PC Archives Patch](https://drive.google.com/file/d/1149vzFtfhAOttE5ttwK8sEaleU2I-Rn8/view?usp=drive_link)
-> It’s recommended to install Archives Patch directly into the game's root folder. 
+> It’s recommended to install PC Archives Patch directly into the game's root folder.
 ### Download: [Definitive Map Content Extras](https://github.com/UnitedMel/SA-Definitive-Map-Content-Additions/releases/download/latest/SA.DefinitiveMapContentAdditionsExtras.7z)
 > Purely optional set of extras to fine-tune your experience. 
 <!---### [Instructions unclear. I'm stuck in the microwave. (Modding Guide)](https://github.com/UnitedMel/SA-Community-Map-Fixes/blob/main/GUIDE.md)--->
 
 # Recommended:
 ### Download: [Community Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes)
-> CCF should have a higher priority set in the modloader.
+> CCF should have a higher priority set in the Mod Loader folder.
 
 
 # Credits:
@@ -32,25 +32,25 @@
 ### 4Arty • [5d0](https://gtaforums.com/profile/1091833-5d0/) • [Ash_735](https://gtaforums.com/profile/129346-ash_735/) • bigmactoni • [brooklynzsmac](https://gtaforums.com/profile/920652-brooklynzsmac/) • [Calvin.L](https://gtaforums.com/profile/1145312-calvinl/) • [Cleoude](https://gtaforums.com/profile/1012435-cleoude/) •  Craccosan • DimZet13 • [Fenton](https://gtaforums.com/profile/747573-fenton/) • [Graven](https://gtaforums.com/profile/296961-graven/) • [Inadequate](https://gtaforums.com/profile/683144-inadequate/) • Justin "The Dude" • [LividKilla66](https://gtaforums.com/profile/1042510-lividkilla66/) • [Matt1010](https://gtaforums.com/profile/974635-matt1010/) • [Reyks](https://gtaforums.com/profile/693134-reyks/) • [ThirteenAG](https://gtaforums.com/profile/364246-thirteenag/) • Whokilledcaptainalex? • [dirprof](https://gtaforums.com/profile/999612-dirprof/) • sunny driver
 
 ### Tools:
-- [**BinaryIPLDecompiler**](https://www.gta-modding.com/area/index.php?act=view&id=30)
+- [**Binary IPL Decompiler**](https://www.gta-modding.com/area/index.php?act=view&id=30)
 - [**DragonFF**](https://github.com/Parik27/DragonFF)
 - [**Collision File Editor II**](http://steve-m.com/downloads/tools/colleditor2/)
 - [**RW Analyze**](http://steve-m.com/downloads/tools/rwanalyze/)
 - [**2DFX Tool**](https://gtaforums.com/topic/576214-sa-creating-2dfx-for-your-models/)
-- [**MagicTXD**](https://gtamods.com/wiki/Magic.TXD)
+- [**Magic.TXD**](https://gtamods.com/wiki/Magic.TXD)
 - [**euryopa**](https://github.com/aap/librwgta/tree/master)
 - **cdimage_make** — aap
 ### Scripts:
 - [**GRGX Script**](https://github.com/goodidea82/GarageExtender)
 - **ENEX Script** — Silent
-### Partialy Included:
+### Partially Included:
 - [**Animated Airport Radar**](https://libertycity.net/files/gta-san-andreas/143585-radar-animation-at-the-airport.html)
 - [**avals343's Model Fixes**](https://libertycity.net/user/avals343/files/gta-san-andreas/)
 - [**Beta Leftovers Fix**](https://gtaforums.com/topic/905317-beta-leftovers-fix-sa/)
 - [**Beta Mulholland Safehouse**](https://gtaforums.com/topic/763957-beta-mulholland-safehouse/)
 - [**Bollards Fix**](https://libertycity.net/files/gta-san-andreas/123136-gta-sa-bollard-fix.html)
 - **Bus Stops Ped Attractor Fix** — DeeZire, Ryadica926
-- [**Candy Suxx Billboard**](https://libertycity.net/files/gta-san-andreas-ios-android/150478-hd-billboard-with-candy-suxx.html)
+- [**Candy Suxxx Billboard**](https://libertycity.net/files/gta-san-andreas-ios-android/150478-hd-billboard-with-candy-suxx.html)
 - [**Cutscene Liberty City Xbox Textures**](https://gtaforums.com/topic/762325-cutscene-liberty-city-xbox-textures/)
 - [**eCola Vending Machine**](https://libertycity.net/files/gta-san-andreas/150600-ecola-vending-machine.html)
 - [**Escalator Physics Fix**](https://gtaforums.com/topic/963363-escalator-physics-fix/#comment-1071516559)
