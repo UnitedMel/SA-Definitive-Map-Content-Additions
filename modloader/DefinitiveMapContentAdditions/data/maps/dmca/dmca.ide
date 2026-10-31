@@ -63,6 +63,10 @@ objs
 6583, la_fuckvan, wreckshare, 80, 2097156
 6584, la_fucklorry, wreckshare, 80, 2097156
 6585, la_fuckrod, wreckshare, 80, 2097156
+#Freed-up IDs
+#14773, int3int_brothel03, int_brothelint3, 100, 128
+#14774, int_5kb_flykiller, int_brothelint3, 100, 128
+#14775, int3int_brothel04, int_brothelint3, 100, 128
 end
 tobj
 6527, bowln, neonshare, 225, 4, 20, 6
